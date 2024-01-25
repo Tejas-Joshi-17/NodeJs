@@ -36,6 +36,7 @@ console.log(process.argv)
 // ]
 // console.log(process.argv[0])     <----- 'C:\\Software\\Node js\\node.exe'
 // console.log(process.argv[1])     <----- 'D:\\Web Development\\Node js Code Step By Step\\12th_Input_from_Command_Line.js'
+// console.log(process.argv[2])     <----- 'India'
 
 
 
@@ -45,10 +46,11 @@ console.log(process.argv)
     //   'D:\\Web Development\\Node js Code Step By Step\\12th_Input_from_Command_Line.js',
     //   'India',
     //   'United State of America'
-    // ]
-    // console.log(process.argv[0])     <----- 'C:\\Software\\Node js\\node.exe'
-    // console.log(process.argv[1])     <----- 'D:\\Web Development\\Node js Code Step By Step\\12th_Input_from_Command_Line.js'
-    
+// ]
+// console.log(process.argv[0])     <----- 'C:\\Software\\Node js\\node.exe'
+// console.log(process.argv[1])     <----- 'D:\\Web Development\\Node js Code Step By Step\\12th_Input_from_Command_Line.js'
+// console.log(process.argv[2])     <----- 'India'    
+// console.log(process.argv[3])     <----- 'United State of America'    
     
     
     
