@@ -1,0 +1,1 @@
+# Import writeFileSync function of 'fs' Module

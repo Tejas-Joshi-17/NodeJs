@@ -1,0 +1,7 @@
+1) package.json :- containes list of dependencies 
+2) package-lock.json :- containes metadata of all dependencies 
+
+3) If "node_module" deleted then run = "npm install" and all dependent modules re-installed
+
+4) Never deploy "node_module" on Server.
+5) Create ".gitignore" file and add "node_module" in it.

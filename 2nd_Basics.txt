@@ -1,0 +1,12 @@
+1) Client-Side :- HTML, CSS, Javascript
+2) Server-Side :- Node js, PHP, Java, etc.
+3) Connection Between Client & Server :- API
+
+
+
+What develper Make with Node js?
+
+1) Developers Make API with Node js.
+2) So we can connect Server with Client.
+3) Node can make API for web, Andriod and IOS, etc.
+4) Make can also make website - Rarely Use.

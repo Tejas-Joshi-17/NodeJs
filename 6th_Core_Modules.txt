@@ -1,0 +1,11 @@
+Core Modules :- 1) Global Modules
+                2) Local Modules
+
+1) Global Modules :-    Do not Require to import them.
+                        They are Globally present everywhere.
+                        E.X. :- console. alert, etc.
+
+2) Local Modules :-     Required to import them.
+                        They are not Globally present everywhere.
+                        E.X. :- fs, HTTP, etc.
+                                const fs = require("fs)

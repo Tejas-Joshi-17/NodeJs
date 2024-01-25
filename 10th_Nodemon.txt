@@ -1,0 +1,15 @@
+1) npm install -g nodemon   :- Install "nodemon" module globally on machine
+2) npm install nodemon      :- Install "nodemon" module locally for our project.
+
+3) nodemon <File_Name_with_Extension>
+   E.X. :- nodemon Apple.js
+
+
+Note :- 
+
+- i)  npm list -g --depth 0            :- List of all globally node modules
+- ii) npm uninstall -g <module_name>   :- Used to remove Globally installed node module
+
+-iii) Node.js is Single-Threaded and Asynchronous Language.
+      Single-Threaded :- Work on one time at a time.
+      Asynchronous :- Complete second task if first time requires some time.
