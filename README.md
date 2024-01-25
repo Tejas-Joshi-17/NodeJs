@@ -3,5 +3,5 @@
 Install "node modules"
 
 ```bash
-  npm run start
+  npm install
 ```
