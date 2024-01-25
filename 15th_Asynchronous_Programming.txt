@@ -1,0 +1,4 @@
+Node js :- Asynchronous Programming Language
+
+1) In Synchronous operations tasks are performed one at a time.
+2) In Asynchronous, Second Task do not wait to finish First Task.
